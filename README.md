@@ -13,4 +13,8 @@ Hallo Welt! :-)
 
 Test.
 
-Hallo Welt! :-)
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 6b4d61df27e66b669e9318202ae6936f6c1ef17f
