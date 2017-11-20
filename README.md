@@ -6,6 +6,7 @@ This is our git test repository.
 - its small
 - and stupid
 - Jan Benda
+- und nochwas
 - Hallo
 
 Bla bla
