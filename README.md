@@ -14,4 +14,3 @@ Hallo Welt! :-)
 Test.
 
 Hallo Welt! :-)
-
